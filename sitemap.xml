@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://payall4u.github.io/post/demo/</loc>
+    <loc>https://payall4u.github.io/categories/</loc>
+    <lastmod>2022-01-16T21:22:56+08:00</lastmod>
+  </url><url>
+    <loc>https://payall4u.github.io/post/hello/</loc>
     <lastmod>2022-01-16T21:22:56+08:00</lastmod>
   </url><url>
     <loc>https://payall4u.github.io/</loc>
@@ -11,7 +14,10 @@
     <loc>https://payall4u.github.io/post/</loc>
     <lastmod>2022-01-16T21:22:56+08:00</lastmod>
   </url><url>
-    <loc>https://payall4u.github.io/categories/</loc>
+    <loc>https://payall4u.github.io/categories/test/</loc>
+    <lastmod>2022-01-16T21:22:56+08:00</lastmod>
+  </url><url>
+    <loc>https://payall4u.github.io/archives/</loc>
   </url><url>
     <loc>https://payall4u.github.io/tags/</loc>
   </url>

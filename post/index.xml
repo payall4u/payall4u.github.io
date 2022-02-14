@@ -11,12 +11,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 16 Jan 2022 21:22:56 +0800</lastBuildDate><atom:link href="https://payall4u.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo</title>
-      <link>https://payall4u.github.io/post/demo/</link>
+      <title>Hello</title>
+      <link>https://payall4u.github.io/post/hello/</link>
       <pubDate>Sun, 16 Jan 2022 21:22:56 +0800</pubDate>
       
-      <guid>https://payall4u.github.io/post/demo/</guid>
-      <description>Hello, world </description>
+      <guid>https://payall4u.github.io/post/hello/</guid>
+      <description>Hello, world Hello, world Hello, world 行内代码 (1..10).for_each(|i| println!(&amp;quot;{}&amp;quot;, i)); 展示，而以下是一段独立的代码：
+fn main() { println!(&amp;#34;hello, world&amp;#34;); } 图片展示 </description>
     </item>
     
   </channel>
